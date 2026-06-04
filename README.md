@@ -5,6 +5,7 @@ A developer tool that reduces LLM input token consumption for source code files 
 ## Demo
 
 https://github.com/JeyaanthAnandan/LoselessTokenOptimisation/blob/main/demo.mov
+https://loselesstokenoptimisation-azeznnffhe7urnqzikyglj.streamlit.app/
 
 ## How it works
 
